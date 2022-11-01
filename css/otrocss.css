@@ -1,0 +1,60 @@
+.imgcollage{
+    height: 325px;
+}
+
+.imgunito{
+    height: 322px;
+}
+
+.fondofotos{
+    background-image: url(../img/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+    
+.otrocontenido{
+    margin-left: 4px;
+}
+
+
+.fondovideo{
+    background-image: url(../img/img_inicio.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.navideos{
+    color: black;
+}
+
+.otrasimg{
+    background-image: url(../img/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.saxis{
+    height: 27%;
+    width: 200%;
+}
+
+.fondoblog{
+    background-image: url(../img/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.gruposmusic{
+    color: black;
+}
+    
+.fondocontactos{
+    background-image: url(../img/fondocontactos.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
